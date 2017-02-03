@@ -1,1 +1,5 @@
+Python 面试相关文档
 https://github.com/taizilongxu/interview_python
+
+httpie源码地址
+https://github.com/jkbrzt/httpie
